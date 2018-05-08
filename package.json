@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-sliding-animation",
+  "version": "1.0.0",
+  "description": "Proof of concept of a simple Javascript logic to animate views side-by-side",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloavelar/vanilla-sliding-animation.git"
+  },
+  "keywords": [
+    "javascript",
+    "animation",
+    "sliding"
+  ],
+  "author": "Paulo Avelar <pauloavelar123@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloavelar/vanilla-sliding-animation/issues"
+  },
+  "homepage": "https://github.com/pauloavelar/vanilla-sliding-animation#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
